@@ -1,10 +1,9 @@
 # Write your code here.
-class conference_badges
-  def batch_badge_creator(attendees)
-    puts "Hello, my name is #{name}."
+  def conference_badges(attendees)
+    puts "Hello, my name is #{attendees}."
   end
 
-  def assign_rooms
-    puts "Hello, #{name}! You'll be assigned to room #{room}!"
+  def assign_rooms(attendees)
+    puts "Hello, #{attendees}! You'll be assigned to room #{room}!"
   end
-end
+
