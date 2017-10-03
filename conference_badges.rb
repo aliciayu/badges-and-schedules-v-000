@@ -6,4 +6,3 @@
   def assign_rooms(attendees)
     puts "Hello, #{attendees}! You'll be assigned to room #{room}!"
   end
-
