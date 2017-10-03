@@ -1,6 +1,6 @@
 # Write your code here.
 class conference_badges
-  def batch_badge_creator(name)
+  def batch_badge_creator(name, attendees)
     puts "Hello, my name is #{name}."
   end
 
