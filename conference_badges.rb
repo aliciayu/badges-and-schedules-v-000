@@ -8,7 +8,7 @@ class conference_badges
   end
 
   def assign_rooms(name)
-    puts "Hello, #{name}! You'll be assigned to room #{room}!"
+    #puts "Hello, #{name}! You'll be assigned to room #{room}!"
   end
 
   def printer
