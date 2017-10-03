@@ -1,5 +1,4 @@
 # Write your code here.
-class conference_badges
   def badge_maker(name)
     puts "Hello, my name is #{name}."
   end
@@ -13,4 +12,4 @@ class conference_badges
 
   def printer
   end
-end
+
